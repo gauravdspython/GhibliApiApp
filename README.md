@@ -10,11 +10,11 @@ The only pre-requisite is that python 3.7 or higher should be installed on your 
 1. Open Terminal window and point it to the ```GhibliApiApp``` directory in the repo.
 2. Run the below command in the IDE terminal or the windows terminal
    ```
-   pip3 install -r requirements.txt
+   pip install -r requirements.txt
    ```
 3. In the terminal window, run:
     ```
-   python3 app/app.py
+   python app/app.py
    ```
 
 If the program runs successfully, you would see something like this in the terminal window:
