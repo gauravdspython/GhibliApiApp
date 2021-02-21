@@ -53,6 +53,8 @@ class People:
         :description: This method is just to map people id for each movie
         and return film people id
         """
+        #people = copy.deepcopy(people_list)
+        people = people_list
 
         for p in people_list:
             if "films" in p:
