@@ -10,7 +10,7 @@ Python app which fetch a list of movies with people appeared in those movies fro
     2. Run the below command in the IDE terminal or the windows terminal
         pip3 install -r requirements.txt
     3. in the terminal window, type
-        python3 app.py
+        python3 app/app.py
         
     Now the program would run and you would see something like this in your terminal window
     * Serving Flask app "app" (lazy loading)
