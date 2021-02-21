@@ -4,12 +4,13 @@ Python app which fetch a list of movies with people appeared in those movies fro
 
   --- TO RUN ON YOUR LOCAL MACHINE ---
     [The only PRE-REQUISITE is that python should be installed on your system]
+    
+
     1. Open Terminal window and point it to the "GhibliApiApp" directory in the repo.
     2. Run the below command in the IDE terminal or the windows terminal
         pip3 install -r requirements.txt
     3. in the terminal window, type
         python3 app.py
-
     Now the program would run and you would see something like this in your terminal window
     * Serving Flask app "app" (lazy loading)
      * Environment: production
