@@ -53,10 +53,9 @@ class People:
         :description: This method is just to map people id for each movie
         and return film people id
         """
-        people = copy.deepcopy(people_list)
 
-        for p in people:
+        for p in people_list:
             if "films" in p:
                 p["films"] = list(map(lambda x: x.split("/")[-1], p["films"]))
-        filmpeopleid = self.build_dict_id_people(people)
+        filmpeopleid = self.build_dict_id_people(people_list)
         return filmpeopleid
