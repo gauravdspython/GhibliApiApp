@@ -1,6 +1,6 @@
 # GhibliApi Test App
 Python app which fetch a list of movies with people appeared in those movies from Ghibliapi
-# STEPS TO RUN THE PROGRAM #
+## STEPS TO RUN THE PROGRAM  ##
 
   --- TO RUN ON YOUR LOCAL MACHINE ---
     [The only PRE-REQUISITE is that python should be installed on your system]
@@ -9,6 +9,7 @@ Python app which fetch a list of movies with people appeared in those movies fro
         pip3 install -r requirements.txt
     3. in the terminal window, type
         python3 app.py
+
     Now the program would run and you would see something like this in your terminal window
     * Serving Flask app "app" (lazy loading)
      * Environment: production
@@ -22,5 +23,3 @@ Python app which fetch a list of movies with people appeared in those movies fro
 
     This means that program is running. Now, open your browser and hit any of the below URLS:
     http://localhost:8000/movies/
-
-
