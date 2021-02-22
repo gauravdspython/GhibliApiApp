@@ -60,6 +60,4 @@ pytest
 Thank you for the opportunity. If there are any questions regarding the assignment, feel free to mail me and I would be glad to provide the resolution
 
 
-Thanks and Regards,
-
-Gaurav
+Thanks and Regards
